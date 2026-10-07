@@ -1,0 +1,6 @@
+{
+  "name": "3D Space Game",
+  "description": "Kosmik kemani boshqarib, to'siqlardan qochish va energiya to'plash uchun qiziqarli 3D neon o'yini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
